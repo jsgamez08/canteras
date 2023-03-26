@@ -1,0 +1,6 @@
+1. "<script>" y "</script>": es donde va ubicado el codigo de javascript
+2. "//": se usa para comentar
+3. "/*" y "*/": se usan para comentar varias lineas de codigo
+4. "control + s ": se usa para guardar
+5. "contro + A ": se usa para señalar todo el codigo
+6. "alt + schip + F": se usa para organizar el codigo
